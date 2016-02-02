@@ -1,4 +1,4 @@
-// Code copied from here
+// Credit:
 // http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
 
 #include <stdio.h>
